@@ -16,7 +16,8 @@ aiken build
 
 ### Testing
 
-There are two simple test: one that validates the contract pays to the signature in the datum and one that validates it doesn't pay if is not signed by the singature in the datum 
+There are two simple test: one that validates the contract pays to the signature in the datum and one that validates it doesn't pay if is not signed by the singature in the datum.
+
 To run all tests, simply do:
 
 ```sh
